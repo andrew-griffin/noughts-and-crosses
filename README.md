@@ -9,4 +9,5 @@ The script "noughts_and_crosses_classification.py" can be run via:
 python noughts_and_crosses_classification.py
 
 It is trained on a subset of the data, and then predicts whether or not a game is a win for X.
-It uses a variety of scikit-learn routines (LinearSVC, KNearest Neighbours, SVC, and BaggingClassifier).
+It uses a variety of scikit-learn routines (LinearSVC, KNearest Neighbours, SVC, and BaggingClassifier), and outputs
+their accuracy (the ratio of correct predictions to total predictions).
